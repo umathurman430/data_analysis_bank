@@ -1,0 +1,1056 @@
+id rent,area,availability
+11026652,Bushwick,16.0
+3206049,Theater District,284.0
+4242232,Midtown,409.0
+3736326,Bedford-Stuyvesant,293.0
+2517373,Hell's Kitchen,82.0
+42009479,Bedford-Stuyvesant,119.0
+2071141,Carroll Gardens,12.0
+50100806,Washington Heights,331.0
+46950487,Highbridge,311.0
+44813638,East Village,264.0
+22766018,Bushwick,20.0
+9293585,Lower East Side,364.0
+56962029,Ditmars Steinway,212.0
+15203695,East Village,191.0
+29795484,Jamaica,3.0
+47977840,East Elmhurst,325.0
+40366726,East Village,185.0
+36882876,Mill Basin,327.0
+7226862,Harlem,292.0
+13824637,Rego Park,157.0
+10781843,Bayswater,108.0
+18839521,Bushwick,67.0
+43274378,Kingsbridge,363.0
+24424080,East Harlem,134.0
+16829149,Crown Heights,89.0
+55216875,Midtown,12.0
+14145759,Kips Bay,203.0
+3525347,Park Slope,393.0
+38657765,Bay Ridge,46.0
+52883870,Harlem,146.0
+4476723,Harlem,153.0
+27076941,Washington Heights,142.0
+53577535,East New York,107.0
+54010073,Ditmars Steinway,181.0
+40303197,Bushwick,149.0
+27365284,Morningside Heights,331.0
+46724596,Queens Village,90.0
+4002534,Greenpoint,99.0
+33884352,Fort Greene,148.0
+10827099,Ditmars Steinway,325.0
+19038349,Hell's Kitchen,337.0
+48203656,Harlem,419.0
+37881084,Flatbush,365.0
+11492827,Jamaica,179.0
+48751537,Crown Heights,371.0
+43558260,Upper East Side,179.0
+13417990,West Village,111.0
+47360855,East Village,77.0
+15378810,Highbridge,311.0
+42500003,Astoria,264.0
+9849573,Harlem,155.0
+47036207,Chinatown,93.0
+11917809,Williamsburg,312.0
+54848890,Williamsburg,204.0
+44371109,Queens Village,62.0
+40786874,SoHo,196.0
+3777983,Astoria,12.0
+48851974,Nolita,61.0
+57242045,Corona,242.0
+20712496,Upper East Side,68.0
+28214845,Harlem,234.0
+34396107,Greenpoint,289.0
+18901771,Bedford-Stuyvesant,62.0
+13689324,Downtown Brooklyn,14.0
+25593046,Brighton Beach,50.0
+47035423,Hell's Kitchen,281.0
+3760627,Harlem,311.0
+10949789,Hell's Kitchen,329.0
+17779658,Jackson Heights,126.0
+19469696,Concord,359.0
+49498013,Longwood,126.0
+51963714,Bedford-Stuyvesant,299.0
+12151788,Harlem,159.0
+18582969,Upper East Side,209.0
+28601826,East Harlem,67.0
+50881783,Ridgewood,143.0
+15531251,Upper West Side,290.0
+8546306,Sunset Park,426.0
+52241143,Roosevelt Island,27.0
+52081354,Bedford-Stuyvesant,319.0
+7859797,Greenpoint,333.0
+43070129,Harlem,40.0
+39381612,West Village,292.0
+45265268,Holliswood,18.0
+31866818,St. Albans,104.0
+43537825,Astoria,172.0
+47461364,Crown Heights,125.0
+20921692,Bushwick,339.0
+3466659,Kips Bay,81.0
+26768365,East Flatbush,162.0
+22986382,West Village,198.0
+22941035,Financial District,334.0
+45744264,Kensington,37.0
+1006307,Upper West Side,375.0
+48060610,Williamsburg,314.0
+56654963,Chelsea,10.0
+57217192,Harlem,361.0
+57074698,West Village,286.0
+23841150,Harlem,365.0
+24703871,East Flatbush,344.0
+28203649,Greenpoint,108.0
+7035214,Clinton Hill,370.0
+23396549,Greenpoint,95.0
+37320219,Ridgewood,5.0
+52591691,Park Slope,224.0
+49146432,Crown Heights,218.0
+39265944,Harlem,84.0
+39607130,South Slope,125.0
+1878941,Harlem,425.0
+25915037,Bushwick,39.0
+18232544,Greenpoint,14.0
+10645599,Flushing,251.0
+11189614,East Village,156.0
+48556449,Upper West Side,294.0
+45410674,South Slope,115.0
+25473308,Hell's Kitchen,108.0
+2630621,Chelsea,294.0
+2799753,Harlem,17.0
+39327574,West Village,152.0
+23791443,Lower East Side,48.0
+41168257,Williamsburg,266.0
+12552691,Astoria,179.0
+46947946,Theater District,187.0
+8696532,Prospect Heights,37.0
+7173841,Harlem,31.0
+48019740,Murray Hill,426.0
+23289955,Bushwick,168.0
+9460363,East Village,399.0
+23766414,Upper West Side,201.0
+3735597,Bay Ridge,88.0
+32524558,Clinton Hill,183.0
+49770531,Prospect-Lefferts Gardens,284.0
+14061574,Carroll Gardens,64.0
+26574329,Fort Hamilton,158.0
+11524308,Ridgewood,158.0
+7859947,Brooklyn Heights,362.0
+27958214,Upper East Side,310.0
+48050609,Clinton Hill,31.0
+7506325,East Village,2.0
+33836774,Civic Center,273.0
+9585183,Greenwich Village,411.0
+5095132,Inwood,320.0
+52685018,Chinatown,183.0
+43956275,SoHo,325.0
+21933506,East Harlem,334.0
+9374079,Harlem,263.0
+26726300,Park Slope,239.0
+21417658,Crown Heights,214.0
+7711296,Cobble Hill,167.0
+7969705,Upper West Side,123.0
+41567244,Bushwick,120.0
+4581897,Upper East Side,148.0
+9689606,Harlem,299.0
+38077442,Astoria,28.0
+18487154,Canarsie,172.0
+50716870,Flushing,183.0
+20203150,Bushwick,31.0
+10462853,Lower East Side,11.0
+54863841,Harlem,90.0
+18994718,Kips Bay,55.0
+48656542,Hell's Kitchen,136.0
+4437747,Upper West Side,17.0
+7554928,Midtown,101.0
+39557460,Kensington,99.0
+31894901,Tribeca,241.0
+2049399,Hell's Kitchen,235.0
+43890089,Flatbush,5.0
+9567947,Lower East Side,197.0
+3665631,Park Slope,36.0
+6356062,Prospect-Lefferts Gardens,287.0
+31462509,SoHo,72.0
+4828287,Carroll Gardens,121.0
+8535813,East Village,204.0
+56626783,West Village,236.0
+11072527,Harlem,36.0
+44849538,Prospect Heights,80.0
+46999313,Flatbush,240.0
+19701208,Wakefield,47.0
+6357673,Crown Heights,95.0
+11806533,Woodhaven,215.0
+50185308,Crown Heights,311.0
+23410909,Woodhaven,360.0
+54836226,Richmond Hill,162.0
+32221513,Astoria,6.0
+3842367,Upper West Side,143.0
+13045342,Bedford-Stuyvesant,159.0
+22739864,Ditmars Steinway,294.0
+24063086,Hell's Kitchen,139.0
+36128066,SoHo,348.0
+2442839,West Village,334.0
+54667482,Clinton Hill,336.0
+1433787,Crown Heights,405.0
+2061200,Williamsburg,244.0
+15863800,Bedford-Stuyvesant,200.0
+17613476,Upper West Side,289.0
+32667487,Bushwick,156.0
+10267273,Prospect Heights,327.0
+16772843,Bedford-Stuyvesant,134.0
+26130434,Upper West Side,42.0
+3799757,East Village,2.0
+4816072,Prospect Heights,250.0
+30958156,Williamsburg,253.0
+46103811,Williamsburg,79.0
+27832816,Long Island City,8.0
+8026040,Williamsburg,333.0
+3261348,Prospect Heights,9.0
+14315205,Midtown,339.0
+29910505,Bedford-Stuyvesant,24.0
+48249464,Williamsburg,319.0
+26832959,Williamsburg,10.0
+16512823,Long Island City,269.0
+8615052,Fordham,266.0
+19337696,Arverne,349.0
+54074052,Bushwick,52.0
+48218568,Harlem,211.0
+48268245,East Flatbush,215.0
+1864029,Harlem,78.0
+43803946,West Village,225.0
+18077497,Hell's Kitchen,211.0
+47134955,Queens Village,125.0
+18820426,Highbridge,276.0
+6211360,University Heights,247.0
+29047214,Midtown,144.0
+38015678,Rosedale,25.0
+5423139,East Harlem,225.0
+3545782,Greenwich Village,54.0
+34579728,Greenpoint,356.0
+24885550,Bushwick,364.0
+46601886,Midtown,272.0
+23698563,Upper East Side,356.0
+28804654,Midtown,77.0
+19188023,Bedford-Stuyvesant,20.0
+56935277,Flatbush,9.0
+19661504,Midtown,323.0
+23332482,Greenpoint,281.0
+45268286,Williamsburg,173.0
+20304314,Upper West Side,332.0
+25308059,East Village,30.0
+14525412,Chelsea,212.0
+5764924,Financial District,153.0
+21509892,Bay Ridge,174.0
+18952191,Upper West Side,53.0
+25926083,Greenpoint,27.0
+2155643,Harlem,82.0
+26730757,Bedford-Stuyvesant,181.0
+44437684,Upper West Side,132.0
+2800177,Bedford-Stuyvesant,111.0
+3123825,Ridgewood,229.0
+45098073,Williamsburg,78.0
+6801038,Williamsburg,118.0
+10002526,Sheepshead Bay,88.0
+11487984,Chinatown,286.0
+27923278,Theater District,259.0
+2152329,Crown Heights,23.0
+45729904,Ridgewood,174.0
+1090809,Sunnyside,395.0
+8063044,Gowanus,271.0
+17631641,Greenpoint,5.0
+24397172,Tribeca,352.0
+6530411,Boerum Hill,199.0
+12377977,Greenwich Village,336.0
+34906030,Woodside,113.0
+56808490,East Village,9.0
+2237383,Upper East Side,223.0
+56748841,Lower East Side,71.0
+54704779,Williamsburg,282.0
+54725766,Midtown,206.0
+54481097,Flushing,72.0
+34564018,East Harlem,192.0
+22898374,Hell's Kitchen,44.0
+1787767,East Harlem,123.0
+7121743,Jamaica,195.0
+44538593,Astoria,31.0
+15674396,Cobble Hill,142.0
+48580343,Harlem,334.0
+13456806,Baychester,129.0
+10026470,Upper East Side,299.0
+5793893,Financial District,122.0
+13549128,Hell's Kitchen,210.0
+4317345,Hell's Kitchen,192.0
+1350028,Harlem,51.0
+26847319,Harlem,361.0
+50428320,Bedford-Stuyvesant,220.0
+46338538,Lower East Side,352.0
+42098383,East Flatbush,14.0
+18936912,Williamsburg,148.0
+11220543,Harlem,365.0
+26388757,Castle Hill,126.0
+45768699,Laurelton,349.0
+17965231,Astoria,64.0
+24767910,Financial District,358.0
+48501898,Williamsburg,41.0
+50348789,Bedford-Stuyvesant,146.0
+14922462,Upper East Side,217.0
+47659379,Greenwich Village,139.0
+38728642,Coney Island,287.0
+31779571,Financial District,193.0
+1175863,Harlem,81.0
+7728350,Hell's Kitchen,39.0
+9256974,Harlem,333.0
+43623984,Williamsburg,329.0
+9057184,Harlem,178.0
+52829875,Bedford-Stuyvesant,138.0
+40955523,Chelsea,245.0
+3929256,Greenpoint,164.0
+13280070,Tribeca,18.0
+33251780,Lower East Side,227.0
+13788479,Upper West Side,111.0
+24673466,East Village,97.0
+16755441,Bedford-Stuyvesant,140.0
+42822652,Crown Heights,262.0
+23852723,East Harlem,83.0
+8984833,Little Italy,98.0
+6543739,Greenpoint,184.0
+46986050,Ridgewood,193.0
+23094137,Upper West Side,158.0
+25905618,East Harlem,227.0
+19773461,Bedford-Stuyvesant,337.0
+14708870,Little Italy,65.0
+3402585,Flatiron District,328.0
+31387322,East Village,173.0
+2051624,Upper East Side,182.0
+43096376,East Flatbush,324.0
+18693290,East Harlem,59.0
+39521355,Crown Heights,293.0
+32279547,Downtown Brooklyn,155.0
+47147045,Upper West Side,284.0
+36170147,Red Hook,42.0
+44528099,Far Rockaway,124.0
+37310528,East Village,2.0
+26743427,Upper East Side,294.0
+8150886,Bedford-Stuyvesant,21.0
+41180721,East New York,336.0
+46894152,Bushwick,336.0
+45341637,Wakefield,360.0
+10295993,Prospect Heights,372.0
+10983054,East Village,118.0
+24349819,Woodlawn,70.0
+9242757,Kensington,54.0
+23741319,Bedford-Stuyvesant,181.0
+8357972,Murray Hill,22.0
+13599299,Crown Heights,88.0
+49904493,Lower East Side,237.0
+9032846,East New York,262.0
+47697749,Flatiron District,323.0
+8311640,East Harlem,362.0
+28618999,Briarwood,111.0
+22015246,Flushing,87.0
+8521453,Midtown,249.0
+54325349,Harlem,180.0
+15251228,Bushwick,74.0
+3381060,Upper East Side,335.0
+32053621,Williamsburg,74.0
+8013733,Sheepshead Bay,108.0
+9695643,Williamsburg,225.0
+55559451,Williamsburg,300.0
+21430266,Williamsburg,299.0
+50574679,East Harlem,14.0
+52263193,Fort Greene,131.0
+49091661,Midtown,180.0
+48641629,Hell's Kitchen,110.0
+53343157,Carroll Gardens,120.0
+11311312,South Ozone Park,360.0
+17300999,Midtown,348.0
+57330413,Jamaica,345.0
+23494306,Flushing,336.0
+48362718,Greenpoint,388.0
+19202795,East Elmhurst,300.0
+10732222,Flatlands,111.0
+50432035,Midtown,289.0
+49657309,Crown Heights,60.0
+13424978,Harlem,364.0
+32227276,Crown Heights,217.0
+34109821,Astoria,65.0
+55057699,Nolita,179.0
+43891767,Arverne,259.0
+5164504,Williamsburg,269.0
+37858042,East Village,146.0
+45162453,Far Rockaway,35.0
+55228359,Bedford-Stuyvesant,365.0
+38431165,East Harlem,332.0
+14214561,Windsor Terrace,194.0
+21422990,Hell's Kitchen,159.0
+50375730,Chelsea,158.0
+3865564,Upper East Side,106.0
+45936600,Windsor Terrace,218.0
+49675535,Williamsburg,358.0
+2636668,Upper East Side,65.0
+11341399,Bedford-Stuyvesant,79.0
+49584958,Upper West Side,242.0
+52659060,Midtown,239.0
+30419947,Murray Hill,48.0
+12966363,Crown Heights,17.0
+29882546,South Slope,248.0
+47203931,West Village,23.0
+4273948,Greenpoint,179.0
+47911674,Williamsburg,125.0
+25062838,Upper East Side,279.0
+18905640,Upper West Side,263.0
+17393048,Prospect Heights,300.0
+37852339,Williamsburg,162.0
+17985666,Greenpoint,365.0
+34972452,Sheepshead Bay,225.0
+47567406,Astoria,386.0
+48786884,Upper West Side,77.0
+20012607,Red Hook,351.0
+9628262,Upper West Side,285.0
+5389072,Crown Heights,22.0
+22581906,Washington Heights,245.0
+17865264,Midtown,6.0
+5197711,Upper East Side,381.0
+54803641,East New York,313.0
+24439392,Flushing,140.0
+32919782,Chelsea,305.0
+11346269,Bedford-Stuyvesant,127.0
+39547654,Upper West Side,308.0
+22969069,Murray Hill,117.0
+14465331,Ozone Park,177.0
+22947529,Bedford-Stuyvesant,66.0
+22967412,Murray Hill,137.0
+20973056,Borough Park,180.0
+23211528,Prospect-Lefferts Gardens,20.0
+22178727,South Slope,179.0
+17785181,Elmhurst,35.0
+10402224,East Village,1.0
+11483574,West Village,160.0
+47903951,Upper East Side,4.0
+6681742,Williamsburg,331.0
+19817301,Astoria,236.0
+29489605,Jamaica,295.0
+5141830,Upper East Side,35.0
+1577186,Bushwick,18.0
+11410595,Hell's Kitchen,193.0
+47557465,Upper West Side,353.0
+47377168,West Village,198.0
+44227812,Elmhurst,71.0
+5619283,Hell's Kitchen,364.0
+21314930,East Village,45.0
+23135863,Flatbush,20.0
+22012880,Carroll Gardens,321.0
+13449073,Williamsburg,17.0
+22932064,Greenpoint,21.0
+46049133,Hell's Kitchen,266.0
+10418603,East Village,36.0
+52596674,East Elmhurst,343.0
+32005145,Harlem,129.0
+51305372,Astoria,42.0
+44851271,Crown Heights,135.0
+22137857,Hell's Kitchen,175.0
+22703869,Astoria,132.0
+43901239,Bushwick,89.0
+1354808,West Village,302.0
+52748053,SoHo,320.0
+45885372,Fort Greene,227.0
+45911803,Woodside,31.0
+2025853,Park Slope,360.0
+9944730,East Village,184.0
+20566571,West Village,53.0
+24873138,Harlem,146.0
+54036496,Harlem,26.0
+44925755,St. George,230.0
+4416207,Inwood,123.0
+36604366,Flushing,308.0
+26265747,Bay Ridge,255.0
+53976295,Lower East Side,43.0
+48273245,Inwood,373.0
+55668078,Bedford-Stuyvesant,175.0
+13245272,Upper East Side,29.0
+14860752,Forest Hills,220.0
+43386145,Hell's Kitchen,341.0
+2524579,Williamsburg,389.0
+44100619,East Harlem,22.0
+53445073,Harlem,84.0
+18445732,Lower East Side,216.0
+3503255,Bushwick,378.0
+28784955,Fort Greene,140.0
+31702893,Upper West Side,351.0
+12473712,Park Slope,305.0
+24581570,Upper East Side,198.0
+1582699,Financial District,260.0
+34703395,East Village,80.0
+56962001,Inwood,153.0
+7832735,Bedford-Stuyvesant,402.0
+21038762,Clinton Hill,348.0
+47831168,Fort Hamilton,212.0
+3481163,Greenpoint,156.0
+7366594,Crown Heights,337.0
+8571712,Flatbush,419.0
+21129357,Clinton Hill,158.0
+43601111,Ridgewood,122.0
+32564176,Hell's Kitchen,167.0
+4989958,Corona,127.0
+10793063,Arverne,305.0
+13901407,Borough Park,45.0
+7605487,Hell's Kitchen,224.0
+1606105,Harlem,202.0
+3103944,Crown Heights,185.0
+20852655,Harlem,58.0
+32179856,South Slope,325.0
+3671155,East Harlem,348.0
+43502421,Cobble Hill,211.0
+5975350,Ditmars Steinway,378.0
+42005029,Flatbush,37.0
+47883874,East Harlem,214.0
+4211304,East Harlem,184.0
+38146645,Washington Heights,14.0
+52832482,Bushwick,85.0
+10385465,Astoria,54.0
+38250440,Midtown,136.0
+26739068,Bay Ridge,344.0
+24130555,East Village,97.0
+48321295,Astoria,10.0
+2918922,Bedford-Stuyvesant,172.0
+54113818,Financial District,321.0
+6984686,Flatiron District,32.0
+29454582,Canarsie,365.0
+51804652,East Village,264.0
+48900658,Bedford-Stuyvesant,308.0
+21423181,Upper West Side,120.0
+3718323,Harlem,170.0
+21265223,Bushwick,121.0
+23410002,Chelsea,41.0
+6368035,Williamsburg,315.0
+10487089,Bedford-Stuyvesant,4.0
+56059766,Greenpoint,307.0
+11634216,Flatbush,335.0
+44508216,Fresh Meadows,358.0
+51338608,Chelsea,287.0
+3518281,Hell's Kitchen,141.0
+28305755,Bayside,132.0
+17347759,Chelsea,79.0
+56236859,Cypress Hills,120.0
+3804811,Bedford-Stuyvesant,324.0
+47674552,Lower East Side,212.0
+17795674,Upper East Side,44.0
+45834761,Rosedale,127.0
+51270577,Windsor Terrace,126.0
+18780360,Little Italy,101.0
+50648688,College Point,3.0
+38527114,Upper East Side,25.0
+3118302,Clinton Hill,359.0
+30798727,Prospect-Lefferts Gardens,251.0
+14255415,Williamsburg,289.0
+25828326,Midtown,365.0
+55756358,Midtown,316.0
+43974674,Bushwick,5.0
+11207127,Kips Bay,280.0
+8325386,Williamsburg,235.0
+16474151,Bedford-Stuyvesant,352.0
+17903373,Spuyten Duyvil,71.0
+52647920,Upper West Side,53.0
+47226085,Williamsburg,166.0
+51484318,Hell's Kitchen,45.0
+10723434,Flatbush,69.0
+1127813,Lower East Side,322.0
+54681030,Crown Heights,32.0
+22249332,Bedford-Stuyvesant,60.0
+14795029,East Harlem,262.0
+51453389,Williamsburg,289.0
+43872628,Elmhurst,344.0
+39663575,Midtown,114.0
+23875393,Financial District,341.0
+44725270,Long Island City,281.0
+21632927,Chinatown,316.0
+16957257,Lower East Side,311.0
+13604822,Clinton Hill,350.0
+22956582,Astoria,243.0
+55560769,Williamsburg,221.0
+55872644,East Flatbush,243.0
+55019129,Tompkinsville,50.0
+3894283,Fort Greene,205.0
+54319826,Astoria,151.0
+25374887,Washington Heights,293.0
+15609671,Ridgewood,175.0
+3173532,Tribeca,378.0
+55361809,Crown Heights,126.0
+35382160,East New York,67.0
+12635536,Elmhurst,60.0
+5558363,East Village,32.0
+6923097,Williamsburg,201.0
+16285686,Kensington,143.0
+3832426,Greenwich Village,368.0
+46052999,Chelsea,29.0
+19639252,East Elmhurst,351.0
+42173747,Sunnyside,158.0
+29549736,Midtown,291.0
+19341562,Bedford-Stuyvesant,315.0
+43497302,Greenpoint,253.0
+26594531,East Harlem,52.0
+23542130,Borough Park,330.0
+44111113,Chelsea,186.0
+9395744,Flatbush,28.0
+34898838,Crown Heights,357.0
+49737461,Williamsburg,163.0
+44781052,Bedford-Stuyvesant,34.0
+46072223,Hell's Kitchen,168.0
+48352088,Upper West Side,82.0
+51948250,South Slope,5.0
+12495361,Midtown,323.0
+18160140,Bushwick,225.0
+21183920,Flushing,343.0
+26179384,Ridgewood,122.0
+18294401,Upper West Side,216.0
+13963708,Tribeca,248.0
+41308523,Financial District,96.0
+27826799,Prospect Heights,221.0
+1588229,Hell's Kitchen,233.0
+6832495,Upper West Side,313.0
+51563240,Flushing,183.0
+4430397,Financial District,83.0
+21923565,Washington Heights,170.0
+36353765,Flatbush,150.0
+29682914,Kips Bay,364.0
+26757625,Jamaica,301.0
+43493893,Williamsburg,163.0
+19514432,Clason Point,365.0
+18910216,Williamsburg,313.0
+2653342,Prospect Heights,187.0
+36444411,Williamsburg,12.0
+45148332,Williamsburg,20.0
+15506943,Lower East Side,50.0
+12342264,East Harlem,81.0
+24579575,Bushwick,296.0
+2712361,Chelsea,39.0
+16777233,Richmond Hill,62.0
+38602051,Prospect-Lefferts Gardens,38.0
+15979160,Harlem,88.0
+20945994,East Flatbush,304.0
+7081054,East Village,117.0
+26108342,Midtown,257.0
+8314340,Upper West Side,392.0
+55498434,Hell's Kitchen,16.0
+54029316,Upper East Side,98.0
+1635593,Sunnyside,13.0
+57304455,Windsor Terrace,243.0
+13559032,Theater District,35.0
+1116580,East Village,259.0
+34741965,Crown Heights,307.0
+27601761,Bedford-Stuyvesant,23.0
+1673043,West Village,296.0
+10126437,West Village,25.0
+1664648,East Village,98.0
+16026952,Brooklyn Heights,306.0
+11400442,Crown Heights,46.0
+21121019,Flushing,251.0
+27541560,Bushwick,11.0
+39748445,Hell's Kitchen,22.0
+15076971,Hell's Kitchen,244.0
+46702862,Clinton Hill,193.0
+54515340,West Village,168.0
+23203244,Woodhaven,358.0
+40726536,Bedford-Stuyvesant,98.0
+23055879,Bushwick,191.0
+28921269,Port Morris,128.0
+20329627,Williamsburg,30.0
+9540446,Parkchester,47.0
+12078265,Morris Heights,365.0
+3150335,Williamsburg,33.0
+16940162,SoHo,325.0
+5665510,Hell's Kitchen,422.0
+33299902,Greenpoint,280.0
+51575046,Nolita,351.0
+15740819,Bedford-Stuyvesant,98.0
+44704283,Inwood,323.0
+54171809,Midtown,124.0
+31548462,Greenpoint,203.0
+22475269,Windsor Terrace,193.0
+19531001,Washington Heights,228.0
+19830348,Civic Center,255.0
+53415158,Ridgewood,269.0
+54615640,East New York,351.0
+39800625,Greenpoint,19.0
+19322784,East Harlem,150.0
+7240117,Corona,287.0
+56376803,Bedford-Stuyvesant,177.0
+35812536,East Harlem,298.0
+6353123,Prospect Heights,185.0
+6291512,Fort Greene,25.0
+45488709,Columbia St,348.0
+4046718,Harlem,88.0
+51633339,SoHo,256.0
+47519908,West Village,99.0
+54675269,East Village,75.0
+16782015,Flushing,334.0
+9149065,Park Slope,279.0
+51899647,Bedford-Stuyvesant,5.0
+57300800,Harlem,267.0
+17800645,East New York,127.0
+52129956,Bushwick,319.0
+20307278,Vinegar Hill,321.0
+5997860,Windsor Terrace,172.0
+31131571,Lower East Side,3.0
+30360615,Chelsea,271.0
+44170209,East Harlem,46.0
+44018326,Carroll Gardens,152.0
+32401911,Williamsburg,154.0
+25517611,Cypress Hills,184.0
+26811972,East Village,183.0
+40495640,Harlem,172.0
+24608071,Astoria,336.0
+27545045,Woodside,244.0
+6026241,Jackson Heights,5.0
+54122102,Astoria,6.0
+26825379,Harlem,141.0
+53950272,Fort Greene,61.0
+54992527,Bedford-Stuyvesant,9.0
+7569288,Bushwick,167.0
+36517125,West Village,300.0
+17245584,Bedford-Stuyvesant,216.0
+34968492,East Harlem,8.0
+21439932,Fort Hamilton,228.0
+46710236,Park Slope,208.0
+17837839,Gramercy,200.0
+8807544,Flatlands,160.0
+54159310,Sunset Park,307.0
+55033950,Bay Ridge,125.0
+52830291,Hell's Kitchen,180.0
+50073191,Murray Hill,364.0
+40791288,Kingsbridge,63.0
+33985569,Long Island City,36.0
+6946846,Williamsburg,401.0
+49039252,Park Slope,118.0
+10138587,Bedford-Stuyvesant,376.0
+53490823,Williamsburg,254.0
+45041886,Upper East Side,18.0
+19729141,Fort Greene,282.0
+53120116,Bay Ridge,11.0
+46310923,Park Slope,85.0
+40431731,Chelsea,281.0
+1059354,Upper West Side,121.0
+21385072,South Ozone Park,365.0
+24702738,Crown Heights,11.0
+32027373,Chelsea,325.0
+47260879,Red Hook,193.0
+46993566,East Harlem,179.0
+20755784,Jamaica,183.0
+44587195,Clinton Hill,54.0
+19675151,Sunset Park,222.0
+23194407,Williamsburg,24.0
+13483868,Harlem,55.0
+2456009,Chelsea,46.0
+55098154,Bedford-Stuyvesant,330.0
+46843341,Windsor Terrace,5.0
+48340626,Williamsburg,379.0
+8477821,Williamsburg,300.0
+50684087,Crown Heights,344.0
+12020826,Harlem,53.0
+13648886,East Harlem,128.0
+3272260,Bushwick,300.0
+34197029,Hell's Kitchen,99.0
+29094229,East Village,62.0
+2674317,Upper East Side,210.0
+13721357,Williamsburg,77.0
+17549349,Bedford-Stuyvesant,291.0
+2241445,Greenpoint,168.0
+5169544,Inwood,348.0
+6685399,Rego Park,331.0
+49225411,Williamsburg,258.0
+19469143,East New York,1.0
+19755780,Hell's Kitchen,14.0
+52581738,Bushwick,47.0
+31195498,Lower East Side,347.0
+50354864,Upper West Side,215.0
+26540929,Upper East Side,356.0
+57107930,Chelsea,77.0
+11696876,Crown Heights,242.0
+28739273,Clinton Hill,74.0
+49051988,East Flatbush,69.0
+25878976,East Flatbush,350.0
+15813030,East Elmhurst,116.0
+55796124,Harlem,32.0
+55797228,Midtown,225.0
+40124995,Bedford-Stuyvesant,9.0
+29725143,Bedford-Stuyvesant,147.0
+55358928,Hunts Point,355.0
+8066910,Williamsburg,38.0
+4386935,Williamsburg,344.0
+49243726,Greenwich Village,245.0
+29319776,Clinton Hill,10.0
+12257210,Clinton Hill,10.0
+8401153,Sheepshead Bay,141.0
+34487027,Harlem,23.0
+3861145,Midtown,144.0
+49802914,Upper West Side,156.0
+12643125,Maspeth,22.0
+7126343,Flatbush,204.0
+20323009,Bedford-Stuyvesant,257.0
+5257445,Williamsburg,290.0
+56490365,Elmhurst,249.0
+26492743,Long Island City,164.0
+44749571,Upper West Side,63.0
+8244763,Sunset Park,164.0
+39414619,Kips Bay,45.0
+2574839,Bushwick,38.0
+10421054,Upper East Side,15.0
+3983737,Nolita,60.0
+3077984,East Village,253.0
+5613041,Williamsburg,22.0
+34377066,St. Albans,335.0
+7535938,Williamsburg,304.0
+2073350,Williamsburg,197.0
+5930614,Williamsburg,417.0
+26480040,East Harlem,11.0
+36543360,Chelsea,35.0
+47072318,Flushing,51.0
+6533567,Laurelton,313.0
+6280172,East Harlem,228.0
+18269548,Bedford-Stuyvesant,189.0
+19056023,East Flatbush,220.0
+57203806,Bushwick,322.0
+21853975,East Flatbush,176.0
+44647396,Midtown,71.0
+20899269,Nolita,11.0
+45023740,Chelsea,77.0
+30132961,Springfield Gardens,216.0
+55785078,Williamsburg,3.0
+42658559,Williamsburg,88.0
+20265560,Chelsea,172.0
+51444552,Williamsburg,94.0
+52015630,Tribeca,365.0
+46508970,Bedford-Stuyvesant,282.0
+56712942,Greenpoint,9.0
+5590958,Bushwick,31.0
+5761610,Flatbush,68.0
+27098760,Bushwick,216.0
+21584158,Washington Heights,129.0
+31541665,Williamsburg,42.0
+43671612,Flushing,297.0
+45103768,East Village,342.0
+9981182,East Village,134.0
+52001823,Greenpoint,27.0
+17304003,Upper West Side,157.0
+30727329,Bushwick,189.0
+50990583,Bedford-Stuyvesant,365.0
+50734846,West Village,365.0
+19830900,Morris Park,29.0
+31716657,Washington Heights,360.0
+45165453,Roosevelt Island,211.0
+10886369,Harlem,160.0
+54368428,Financial District,136.0
+16501756,East Harlem,96.0
+11520442,Bushwick,290.0
+1605000,Upper East Side,370.0
+2954510,Upper East Side,346.0
+12565393,Flatbush,154.0
+17454113,Brooklyn Heights,83.0
+24852988,Arverne,31.0
+48783571,Canarsie,88.0
+24969081,Chinatown,12.0
+56801023,Bushwick,142.0
+48410176,Chinatown,279.0
+20208121,Bedford-Stuyvesant,310.0
+27035095,Bedford-Stuyvesant,192.0
+5207653,Upper West Side,180.0
+23297687,Upper East Side,5.0
+10159403,East Village,216.0
+51589807,Washington Heights,33.0
+45515519,Lower East Side,117.0
+53996178,Kensington,344.0
+11981060,East Village,76.0
+56256190,Harlem,151.0
+23852196,Financial District,330.0
+29478391,Silver Lake,102.0
+14192469,Neponsit,315.0
+54398033,Fieldston,189.0
+38832600,East Harlem,167.0
+2343977,Ditmars Steinway,23.0
+1828691,Briarwood,33.0
+9158807,Chelsea,162.0
+44495785,East Village,3.0
+23843359,Murray Hill,310.0
+56505277,Crown Heights,9.0
+24546214,East Harlem,188.0
+9105786,Midtown,287.0
+22781456,East Harlem,347.0
+57211774,Bushwick,144.0
+21082582,East Village,221.0
+13169819,Washington Heights,106.0
+55674065,Queens Village,351.0
+52165856,Harlem,364.0
+11169731,Chelsea,266.0
+54859576,Harlem,235.0
+29767373,Williamsburg,243.0
+29696328,Williamsburg,335.0
+47781146,Crown Heights,297.0
+41458928,Sheepshead Bay,150.0
+8245855,Ridgewood,365.0
+52440558,Park Slope,71.0
+35581549,East Harlem,304.0
+49796824,Bedford-Stuyvesant,307.0
+3455590,East Village,8.0
+57223580,Bedford-Stuyvesant,294.0
+56107621,Williamsburg,35.0
+36341057,Hell's Kitchen,35.0
+8007814,Hell's Kitchen,326.0
+50624386,Midtown,302.0
+16448983,South Slope,145.0
+20024090,Flatbush,322.0
+44171866,Greenpoint,364.0
+55409354,Chelsea,114.0
+51541204,Borough Park,342.0
+21264671,Washington Heights,2.0
+47957330,Midtown,96.0
+23321436,SoHo,273.0
+38695752,Bedford-Stuyvesant,78.0
+49427026,Rego Park,26.0
+19171454,Lower East Side,8.0
+5913680,Upper West Side,263.0
+5740106,Kips Bay,361.0
+2599692,Flatbush,112.0
+13999717,Williamsburg,77.0
+52775043,Long Island City,8.0
+56007655,Brooklyn Heights,27.0
+23027060,Bay Ridge,3.0
+52621503,Upper West Side,300.0
+33143595,Bushwick,151.0
+9569718,Upper West Side,246.0
+50411018,Washington Heights,137.0
+24857653,Hell's Kitchen,38.0
+6064822,Bedford-Stuyvesant,38.0
+12188173,Bedford-Stuyvesant,5.0
+10456723,Bedford-Stuyvesant,283.0
+54711849,Flushing,35.0
+30685979,Flatbush,42.0
+26878922,Greenpoint,142.0
+5468011,East Flatbush,197.0
+5614146,Upper East Side,142.0
+55310100,Springfield Gardens,14.0
+16883275,Midtown,343.0
+52237650,Upper East Side,141.0
+15433487,Rosedale,84.0
+20410976,Fresh Meadows,155.0
+50425006,Bedford-Stuyvesant,112.0
+19475660,Chinatown,137.0
+19683842,St. Albans,270.0
+42757653,Bushwick,331.0
+33573225,West Village,254.0
+3341983,Harlem,232.0
+47681180,Murray Hill,70.0
+6585641,Bushwick,336.0
+43471549,Park Slope,21.0
+22845906,Brownsville,66.0
+44070637,Hell's Kitchen,363.0
+7815721,Greenpoint,143.0
+7003713,East Village,199.0
+29332879,Upper East Side,167.0
+33381114,Bushwick,9.0
+24174603,Harlem,255.0
+23882020,Financial District,335.0
+53966354,SoHo,300.0
+44968834,Boerum Hill,8.0
+47689464,Upper East Side,317.0
+3544125,Washington Heights,106.0
+26882114,Van Nest,342.0
+18318484,Rego Park,355.0
+7068352,West Village,154.0
+43163366,Williamsburg,279.0
+53845884,Corona,315.0
+11985539,East Harlem,192.0
+38457328,East Village,310.0
+4029045,Harlem,36.0
+42332006,Harlem,267.0
+8604011,Bedford-Stuyvesant,155.0
+11845194,East Flatbush,85.0
+44539904,Harlem,75.0
+56655640,Flatbush,32.0
+33412646,Hell's Kitchen,199.0
+7946509,Astoria,94.0
+56727301,Kensington,141.0
+12006323,Bushwick,87.0
+54458408,Upper East Side,51.0
+45453754,Williamsburg,110.0
+47501130,Midtown,198.0
+12733293,Bay Ridge,55.0
+20123642,Hell's Kitchen,149.0
+42243363,Gramercy,274.0
+41473925,Bedford-Stuyvesant,304.0
+44840102,Prospect Heights,349.0
+33859909,Lower East Side,96.0
+32028840,Bushwick,334.0
+34656996,Jamaica,188.0
+46015443,Jackson Heights,288.0
+13006129,Williamsburg,297.0
+19834766,Bedford-Stuyvesant,75.0
+11851822,Prospect-Lefferts Gardens,35.0
+55470267,Jamaica,26.0
+2076112,Washington Heights,367.0
+35957213,Harlem,134.0
+2413567,Prospect Heights,138.0
+49229829,East Flatbush,189.0
+46896361,Bushwick,364.0
+23907163,Williamsburg,304.0
+1971048,Theater District,330.0
+27316774,Harlem,266.0
+7072912,Port Morris,11.0
+47024806,Lower East Side,160.0
+53480889,Theater District,326.0
+54386102,Bedford-Stuyvesant,332.0
+32264144,Jackson Heights,263.0
+10746670,Hell's Kitchen,178.0
+57311083,Lower East Side,14.0
+52537001,Jackson Heights,126.0
+42930847,Upper East Side,49.0
+14971212,Harlem,72.0
+33019729,Williamsburg,207.0
+19255119,Midtown,57.0
+22764838,Jackson Heights,233.0
+47958434,Flatbush,28.0
+43857607,Harlem,326.0
+16935191,Fordham,90.0
+43598026,Lower East Side,341.0
+51226393,Murray Hill,365.0
+4443497,Crown Heights,284.0
+11680609,Sheepshead Bay,62.0
+13795352,East Village,36.0
+26096761,Astoria,10.0
+26699188,Hunts Point,271.0
+16393416,Bushwick,276.0
+47150333,Bushwick,297.0
+7419183,East Village,250.0
+6949607,East Village,278.0
+37706148,Inwood,32.0
+18628659,Bushwick,115.0
+18025865,East Harlem,258.0
+56773175,East Flatbush,346.0
+51263810,Middle Village,55.0
+39735082,Williamsburg,84.0
+19915954,East Flatbush,123.0
+53585267,Downtown Brooklyn,8.0
+43488368,Roosevelt Island,47.0
+11046568,Flushing,335.0
+24827006,Chinatown,82.0
+40761818,Financial District,19.0
+4374784,Theater District,355.0
+51253456,Washington Heights,14.0
+54623616,West Village,308.0
+18308209,Sheepshead Bay,156.0
+15686196,Canarsie,53.0
+25050032,Financial District,188.0
+48158446,Bedford-Stuyvesant,285.0
+45211721,East Village,283.0
+39987196,Upper West Side,163.0
+48718951,Harlem,393.0
+3800945,Sunset Park,242.0
+17431666,Williamsburg,302.0
+16832463,East Village,14.0
+52551913,Highbridge,17.0
+6925858,Bushwick,41.0
+48046250,Bushwick,129.0
+14163845,Bedford-Stuyvesant,334.0
+22153430,East Harlem,18.0
+31774833,Upper East Side,352.0
+9995961,Flatbush,76.0
+9973738,Williamsburg,179.0
+47126301,Lower East Side,72.0
